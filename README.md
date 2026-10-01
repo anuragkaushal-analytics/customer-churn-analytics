@@ -78,21 +78,16 @@ The dashboard includes:
 
 ## Project Structure
 
-```text
-customer-churn-analytics/
-│
-├── Customer_Churn_Analysis.ipynb
-├── Customer_Churn_Analytics.pbix
-├── powerbi_customer_churn_data.csv
-├── customer_churn_predictions.csv
-├── priority_retention_customers.csv
-├── final_customer_churn_data.csv
-├── kpi_summary.csv
-├── risk_summary.csv
-├── customer_churn.db
-└── telco-customer-churn-by-IBM.csv
-
-
+- Customer_Churn_Analysis.ipynb
+- Customer_Churn_Analytics.pbix
+- powerbi_customer_churn_data.csv
+- customer_churn_predictions.csv
+- priority_retention_customers.csv
+- final_customer_churn_data.csv
+- kpi_summary.csv
+- risk_summary.csv
+- customer_churn.db
+- telco-customer-churn-by-IBM.csv
 
 ## Business Objective
 
