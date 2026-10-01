@@ -64,7 +64,7 @@ Customers were classified as:
 - **High Risk:** >60%
 
 ## Power BI Dashboard
-
+![Customer Churn Dashboard](dashboard.png)
 The dashboard includes:
 
 - Customer and churn KPIs
